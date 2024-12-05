@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gestionneire-de-projet.git/static/css/main.d2ad37f6.css",
-    "main.js": "/Gestionneire-de-projet.git/static/js/main.e4276da2.js",
-    "static/js/453.7e9ba89f.chunk.js": "/Gestionneire-de-projet.git/static/js/453.7e9ba89f.chunk.js",
-    "index.html": "/Gestionneire-de-projet.git/index.html",
-    "main.d2ad37f6.css.map": "/Gestionneire-de-projet.git/static/css/main.d2ad37f6.css.map",
-    "main.e4276da2.js.map": "/Gestionneire-de-projet.git/static/js/main.e4276da2.js.map",
-    "453.7e9ba89f.chunk.js.map": "/Gestionneire-de-projet.git/static/js/453.7e9ba89f.chunk.js.map"
+    "main.css": "/Gestionneire-de-projet/static/css/main.d2ad37f6.css",
+    "main.js": "/Gestionneire-de-projet/static/js/main.c46e8aa8.js",
+    "static/js/453.7e9ba89f.chunk.js": "/Gestionneire-de-projet/static/js/453.7e9ba89f.chunk.js",
+    "index.html": "/Gestionneire-de-projet/index.html",
+    "main.d2ad37f6.css.map": "/Gestionneire-de-projet/static/css/main.d2ad37f6.css.map",
+    "main.c46e8aa8.js.map": "/Gestionneire-de-projet/static/js/main.c46e8aa8.js.map",
+    "453.7e9ba89f.chunk.js.map": "/Gestionneire-de-projet/static/js/453.7e9ba89f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2ad37f6.css",
-    "static/js/main.e4276da2.js"
+    "static/js/main.c46e8aa8.js"
   ]
 }
